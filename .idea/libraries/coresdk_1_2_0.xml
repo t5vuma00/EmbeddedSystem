@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="coresdk-1.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/0c64f018932e732399079c3382574b89ce3556ff/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0c64f018932e732399079c3382574b89ce3556ff/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.estimote/coresdk/1.2.0/8656204efe84541f1cb18bf95a8868f679d0e32d/coresdk-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
